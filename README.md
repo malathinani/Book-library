@@ -41,7 +41,5 @@ After opening `libr.html` in your browser, you can:
 
 - **Add a new book** by filling out the form and submitting it.
 - **View your book collection** in the displayed list.
-   
-
 
 
